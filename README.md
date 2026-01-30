@@ -1,6 +1,6 @@
 # Kese
 
-- Eklenti bana ait değildir lyneez'e aittir.
+Eklenti bana ait değildir lyneez'e aittir.
 - Folia desteği eklendi
 - database kaldırıldı
 - yazı fontları geliştirildi prefixler eklendi
