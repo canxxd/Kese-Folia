@@ -133,7 +133,7 @@ public class KeseAdminCmd implements CommandExecutor, TabCompleter {
                 OfflinePlayer target = PlayerUtil.getOfflinePlayer(args[1]);
 
                 if (target == null) {
-                    sender.sendMessage(PREFIX + "§fBelirtilen oyuncu bulunamadı.");
+                    sender.sendMessage(PREFIX + "§fBelirtilen oyuncu bulunamadı veya aktif değil.");
                     return true;
                 }
 
