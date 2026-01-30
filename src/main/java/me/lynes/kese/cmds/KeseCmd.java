@@ -40,12 +40,12 @@ public class KeseCmd implements CommandExecutor, TabCompleter {
                 try {
                     amount = Integer.parseInt(args[1]);
                 } catch (NumberFormatException e) {
-                    player.sendMessage(PREFIX + "§cMiktar sayı olmalıdır.");
+                    player.sendMessage(PREFIX + "§cMiktar bir sayı olmalıdır.");
                     return true;
                 }
 
                 if (amount < 0) {
-                    player.sendMessage(PREFIX + "§cMiktar sayı olmalıdır.");
+                    player.sendMessage(PREFIX + "§cMiktar bir sayı olmalıdır.");
                     return true;
                 }
 
