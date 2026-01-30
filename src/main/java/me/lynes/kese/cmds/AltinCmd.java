@@ -35,12 +35,12 @@ public class AltinCmd implements CommandExecutor, TabCompleter {
                 try {
                     amount = Integer.parseInt(args[2]);
                 } catch (NumberFormatException e) {
-                    player.sendMessage(PREFIX + "§fMiktar sayı olmalıdır.");
+                    player.sendMessage(PREFIX + "§fMiktar bir sayı olmalıdır.");
                     return true;
                 }
 
                 if (amount < 1) {
-                    player.sendMessage(PREFIX + "§fMiktar birden küçük olamaz.");
+                    player.sendMessage(PREFIX + "§fMiktar bir birden küçük olamaz.");
                     return true;
                 }
 
