@@ -7,8 +7,6 @@
 - eklenti üzerindeki hatalar düzeltildi
 - towny eklentisinde bedrockların hiç bir kasaba kuramaması sorunu çözüldü.
 
-<img width="647" height="65" alt="image" src="https://github.com/user-attachments/assets/7cd6dd70-ac5a-425d-bab3-4867576141f0" />
-
 - İndirmek İçin https://github.com/canxxd/Kese-Folia/releases/tag/KeseSistemi
 
 # kese orjinal sürümü
