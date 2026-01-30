@@ -7,6 +7,8 @@
 - eklenti üzerindeki hatalar düzeltildi
 - towny eklentisinde bedrockların hiç bir kasaba kuramaması sorunu çözüldü.
 
+- İndirmek İçin https://github.com/canxxd/Kese-Folia/releases/tag/KeseSistemi
+
 # kese orjinal sürümü
 Spigot paper ve folia için altın tabanlı ekonomi eklentisi (Vault) sadece destekli
 
