@@ -17,7 +17,7 @@ Spigot paper ve folia için altın tabanlı ekonomi eklentisi (Vault) sadece des
 ![license](https://img.shields.io/github/license/lyneez/Kese)
 
 ### İndir
-- **Son sürüm: https://github.com/lyneez/Kese/releases/latest**
+- **Orjinal Son sürüm indir: https://github.com/lyneez/Kese/releases/latest**
 
 ### Lisans
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
