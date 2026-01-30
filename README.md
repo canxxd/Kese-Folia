@@ -1,5 +1,14 @@
 # Kese
-Spigot için altın tabanlı yarı fiziksel yarı sanal ekonomi eklentisi. (Vault)
+
+- Eklenti bana ait değildir lyneez'e aittir.
+- Folia desteği eklendi
+- database kaldırıldı
+- yazı fontları geliştirildi prefixler eklendi
+- eklenti üzerindeki hatalar düzeltildi
+- towny eklentisinde bedrockların hiç bir kasaba kuramaması sorunu çözüldü.
+
+#kese orjinal sürümü
+Spigot paper ve folia için altın tabanlı ekonomi eklentisi (Vault) sadece destekli
 
 ![release](https://img.shields.io/github/v/release/lyneez/Kese)
 ![downloads](https://img.shields.io/github/downloads/lyneez/Kese/total)
