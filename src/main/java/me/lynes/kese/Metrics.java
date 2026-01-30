@@ -519,7 +519,7 @@ public class Metrics {
             JsonObjectBuilder valuesBuilder = new JsonObjectBuilder();
             Map<String, Integer> map = callable.call();
             if (map == null || map.isEmpty()) {
-                // Null = skip the chart
+                // Null = skip the char
                 return null;
             }
             for (Map.Entry<String, Integer> entry : map.entrySet()) {
