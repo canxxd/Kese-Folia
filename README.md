@@ -9,8 +9,6 @@
 
 <img width="647" height="65" alt="image" src="https://github.com/user-attachments/assets/7cd6dd70-ac5a-425d-bab3-4867576141f0" />
 
-<img width="633" height="58" alt="image" src="https://github.com/user-attachments/assets/6a08fcb2-7cd2-4e72-b34d-7409d6274d30" />
-
 - İndirmek İçin https://github.com/canxxd/Kese-Folia/releases/tag/KeseSistemi
 
 # kese orjinal sürümü
