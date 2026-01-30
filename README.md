@@ -6,6 +6,7 @@ Eklenti bana ait değildir lyneez'e aittir.
 - yazı fontları geliştirildi prefixler eklendi
 - eklenti üzerindeki hatalar düzeltildi
 - towny eklentisinde bedrockların hiç bir kasaba kuramaması sorunu çözüldü.
+- Eklentinin yanlış Güncelleme duyuruları kapatıldı. 
 
 - İndirmek İçin https://github.com/canxxd/Kese-Folia/releases/tag/KeseSistemi
 
