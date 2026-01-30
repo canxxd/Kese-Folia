@@ -2,7 +2,7 @@ name: Kese
 version: '${project.version}'
 main: me.lynes.kese.Kese
 api-version: 1.13
-authors: [ Lynes / CanXD]
+authors: [ Lynes / CanXD ]
 depend: [ Vault ]
 description: altın tabanlı yarı fiziksel yarı sanal ekonomi eklentisi
 
