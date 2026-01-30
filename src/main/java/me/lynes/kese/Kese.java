@@ -27,7 +27,7 @@ public final class Kese extends JavaPlugin {
         if (rsp != null) {
             economy = rsp.getProvider();
         } else {
-            getLogger().severe("Vault Economy sağlayıcısı bulunamadı Lütfen bir ekonomi eklentisi kurun");
+            getLogger().severe("Vault Economy sağlayıcısı bulunamadı Lütfen bir vault eklentisi kurun");
         }
         getCommand("kese").setExecutor(new KeseCmd());
         getCommand("altin").setExecutor(new AltinCmd());
