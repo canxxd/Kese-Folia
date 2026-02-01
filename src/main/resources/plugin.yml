@@ -1,0 +1,35 @@
+name: Kese
+version: '${project.version}'
+main: me.lynes.kese.Kese
+api-version: 1.13
+authors: [ Lynes / CanXD ]
+depend: [ Vault ]
+description: altın tabanlı yarı fiziksel yarı sanal ekonomi eklentisi
+
+commands:
+  kese:
+    usage: /<command>
+    permission: kese.player
+
+  altin:
+   usage: /<command>
+   permission: kese.player
+
+  keseadmin:
+    usage: /<command>
+    permission: kese.admin
+
+permissions:
+  kese.*:
+    children:
+      kese.player: true
+      kese.admin: true
+    default: op
+
+  kese.player:
+    default: true
+
+  kese.admin:
+    default: op
+
+folia-supported: true 
