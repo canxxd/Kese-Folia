@@ -8,9 +8,9 @@ Benim Bu Eklentide Değiştirdiğim ve Düzelttiğim Şeyler
 - yazı fontları geliştirildi prefixler eklendi
 - eklenti üzerindeki hatalar düzeltildi
 - towny eklentisinde bedrockların hiç bir kasaba kuramaması sorunu çözüldü.
-- Eklentinin yanlış Güncelleme duyuruları kapatıldı. 
+- Eklentinin yanlış Güncelleme duyuruları komple kapatıldı. 
 
-- İndirmek İçin https://github.com/canxxd/Kese-Folia/releases/tag/KeseSistemi
+- İndirme linki https://github.com/canxxd/Kese-Folia/releases/tag/KeseSistemi
 
 # kese orjinal sürümü
 Spigot paper ve folia için altın tabanlı ekonomi eklentisi (Vault) sadece destekli
