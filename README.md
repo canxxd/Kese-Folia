@@ -1,6 +1,8 @@
 # Kese
 
-Eklenti bana ait değildir lyneez'e aittir.
+Eklenti bana ait değildir lyneez adlı geliştiriciye aittir.
+
+Benim Bu Eklentide Değiştirdiğim ve Düzelttiğim Şeyler 
 - Folia desteği eklendi
 - database kaldırıldı
 - yazı fontları geliştirildi prefixler eklendi
